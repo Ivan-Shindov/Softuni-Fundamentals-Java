@@ -2,6 +2,9 @@ package StudentsProblemExercise;
 
 public class Students {
     private String name;
+    private String lastName;
+    private double grade;
+
 
     public String getName() {
         return name;
@@ -23,9 +26,6 @@ public class Students {
         this.grade = grade;
     }
 
-    private String lastName;
-    private double grade;
-
     public Students(String name, String lastName , double grade) {
         this.name = name;
         this.lastName = lastName;
@@ -42,8 +42,7 @@ public class Students {
 
     @Override
     public String toString() {
-        String result = String.format("%s %s: %.2f%n", this.name, this.lastName, this.grade);
-        return result;
+        return String.format("%s %s: %.2f%n", this.name, this.lastName, this.grade);
     }
 
 

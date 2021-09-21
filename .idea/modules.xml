@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01.Basic-Syntax/01.Basic-Syntax.iml" filepath="$PROJECT_DIR$/01.Basic-Syntax/01.Basic-Syntax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.Data-Types/02.Data-Types.iml" filepath="$PROJECT_DIR$/02.Data-Types/02.Data-Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.Arrays/03.Arrays.iml" filepath="$PROJECT_DIR$/03.Arrays/03.Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.Methods/04.Methods.iml" filepath="$PROJECT_DIR$/04.Methods/04.Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.Lists/05.Lists.iml" filepath="$PROJECT_DIR$/05.Lists/05.Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.Objects-And-Classes/06.Objects-And-Classes.iml" filepath="$PROJECT_DIR$/06.Objects-And-Classes/06.Objects-And-Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07.Associative Arrays, Lambda And Stream API/07.Associative Arrays, Lambda And Stream API.iml" filepath="$PROJECT_DIR$/07.Associative Arrays, Lambda And Stream API/07.Associative Arrays, Lambda And Stream API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.Regular-Expressions/08.Regular-Expressions.iml" filepath="$PROJECT_DIR$/08.Regular-Expressions/08.Regular-Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09.Text Processing/09.Text Processing.iml" filepath="$PROJECT_DIR$/09.Text Processing/09.Text Processing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Softuni-Fundamentals-Java.iml" filepath="$PROJECT_DIR$/.idea/Softuni-Fundamentals-Java.iml" />
+    </modules>
+  </component>
+</project>
